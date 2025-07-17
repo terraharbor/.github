@@ -1,10 +1,10 @@
 # TerraHarbor
 
-*A safe harbor for your Terraform/OpenTofu state files*
+*A safe harbor for your Terraform state files*
 
 ## Overview
 
-TerraHarbor project is a Terraform/OpenTofu HTTP backend designed to provide a secure and efficient way to store and manage Terraform/OpenTofu state files. It aims to be a simple and effective solution for teams and organizations looking to centralize their Terraform/OpenTofu state management.
+TerraHarbor project is a Terraform HTTP backend designed to provide a secure and efficient way to store and manage Terraform state files. It aims to be a simple and effective solution for teams and organizations looking to centralize their Terraform state management.
 
 > [!NOTE]
 > This project is being developed as a school project for the PDG course at [HEIG-VD](https://www.heig-vd.ch/).
