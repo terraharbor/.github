@@ -12,7 +12,7 @@ TerraHarbor project is a Terraform HTTP backend designed to provide a secure and
 ## Authors
 
 - Anthony Christen ([@Anthony-Christen](https://github.com/Anthony-Christen))
-- Badis Machraoui (TODO)
+- Badis Machraoui ([@badisnt](https://github.com/badisnt))
 - Fabrice Chapuis ([@fabricechapuis](https://github.com/fabricechapuis))
 - Gonçalo Carvalheiro Heleno ([@lentidas](https://github.com/lentidas))
 - Sven Ferreira Silva ([@Svelva](https://github.com/Svelva))
