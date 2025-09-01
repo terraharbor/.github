@@ -25,6 +25,7 @@ This organization contains several repositories in order to more efficiently man
 - [terraharbor/project-management](https://github.com/terraharbor/project-management) - general documentation for the project (p.e. contributing guidelines) and store for the generic GitHub Issues we are using to manage the project (e.g. epics, user stories, etc.);
 - [terraharbor/github-org-management](https://github.com/terraharbor/github-org-management) - Terraform code and GitHub Actions workflows to manage the repositories, teams and members of the TerraHarbor organization;
 - [terraharbor/github-actions-workflows](https://github.com/terraharbor/github-actions-workflows) - centralized repository for GitHub Actions workflows used by the other repositories in the TerraHarbor organization; additionally, it contains the GitHub Actions workflow that runs Renovate periodically to update the dependencies of the repositories in the organization;
-- [terraharbor/application](https://github.com/terraharbor/application) - main application repository for the TerraHarbor project, containing the core functionality and components;
+- [terraharbor/backend](https://github.com/terraharbor/backend) - repository containing the code for the backend of the application, together with the database initialization scripts;
+- [terraharbor/frontend](https://github.com/terraharbor/frontend) - repository containing the code for the frontend of the application;
 - [terraharbor/infrastructure](https://github.com/terraharbor/infrastructure) - repository for the infrastructure code, to deploy the TerraHarbor application and its components;
 - [terraharbor/website](https://github.com/terraharbor/website) - repository for the TerraHarbor project website.
