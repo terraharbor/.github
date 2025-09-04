@@ -7,9 +7,9 @@
 
 <div align="center">
 
-![Backend Version](https://img.shields.io/github/v/release/terraharbor/backend?style=for-the-badge&label=Backend%20Version) ![Backend License](https://img.shields.io/github/license/terraharbor/backend?style=for-the-badge&logo=gplv3&label=Backend%20License) ![Backend Build](https://img.shields.io/github/actions/workflow/status/terraharbor/backend/docker-build.yaml?branch=main&style=for-the-badge&logo=docker&label=Backend%20Build)
+![Backend Version](https://img.shields.io/github/v/release/terraharbor/backend?sort=semver&style=for-the-badge&label=Backend%20Version&color=%2325c2a0&link=https%3A%2F%2Fgithub.com%2Fterraharbor%2Fbackend%2Freleases) ![Backend License](https://img.shields.io/github/license/terraharbor/backend?style=for-the-badge&logo=gplv3&label=Backend%20License) ![Backend Build](https://img.shields.io/github/actions/workflow/status/terraharbor/backend/docker-build.yaml?event=push&style=for-the-badge&logo=docker&label=Backend%20Build&link=https%3A%2F%2Fgithub.com%2Fterraharbor%2Fbackend%2Factions%2Fworkflows%2Fdocker-build.yaml%3Fquery%3Devent%253Apush)
 
-![Frontend Version](https://img.shields.io/github/v/release/terraharbor/frontend?style=for-the-badge&label=Frontend%20Version) ![Frontend License](https://img.shields.io/github/license/terraharbor/frontend?style=for-the-badge&logo=gplv3&label=Frontend%20License) ![Frontend Build](https://img.shields.io/github/actions/workflow/status/terraharbor/frontend/docker-build.yaml?branch=main&style=for-the-badge&logo=docker&label=Frontend%20Build)
+![Frontend Version](https://img.shields.io/github/v/release/terraharbor/frontend?sort=semver&style=for-the-badge&label=Frontend%20Version&color=%2325c2a0&link=https%3A%2F%2Fgithub.com%2Fterraharbor%2Ffrontend%2Freleases) ![Frontend License](https://img.shields.io/github/license/terraharbor/frontend?style=for-the-badge&logo=gplv3&label=Frontend%20License) ![Frontend Build](https://img.shields.io/github/actions/workflow/status/terraharbor/frontend/docker-build.yaml?event=push&style=for-the-badge&logo=docker&label=Frontend%20Build&link=https%3A%2F%2Fgithub.com%2Fterraharbor%2Ffrontend%2Factions%2Fworkflows%2Fdocker-build.yaml%3Fquery%3Devent%253Apush)
 
 </div>
 
