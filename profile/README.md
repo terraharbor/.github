@@ -1,6 +1,17 @@
-# TerraHarbor
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="128" src="logo.png" alt="TerraHarbor Logo" align="center">
+</p>
+<h1 align="center" style="margin-top: 0px;">TerraHarbor</h1>
 
-*A safe harbor for your Terraform state files*
+<p align="center">A safe harbor for your Terraform state files</p>
+
+<div align="center">
+
+![Backend Version](https://img.shields.io/github/v/release/terraharbor/backend?style=for-the-badge&label=Backend%20Version) ![Backend License](https://img.shields.io/github/license/terraharbor/backend?style=for-the-badge&logo=gplv3&label=Backend%20License) ![Backend Build](https://img.shields.io/github/actions/workflow/status/terraharbor/backend/docker-build.yaml?branch=main&style=for-the-badge&logo=docker&label=Backend%20Build)
+
+![Frontend Version](https://img.shields.io/github/v/release/terraharbor/frontend?style=for-the-badge&label=Frontend%20Version) ![Frontend License](https://img.shields.io/github/license/terraharbor/frontend?style=for-the-badge&logo=gplv3&label=Frontend%20License) ![Frontend Build](https://img.shields.io/github/actions/workflow/status/terraharbor/frontend/docker-build.yaml?branch=main&style=for-the-badge&logo=docker&label=Frontend%20Build)
+
+</div>
 
 ## Overview
 
@@ -29,3 +40,9 @@ This organization contains several repositories in order to more efficiently man
 - [terraharbor/frontend](https://github.com/terraharbor/frontend) - repository containing the code for the frontend of the application;
 - [terraharbor/infrastructure](https://github.com/terraharbor/infrastructure) - repository for the infrastructure code, to deploy the TerraHarbor application and its components;
 - [terraharbor/website](https://github.com/terraharbor/website) - repository for the TerraHarbor project website.
+
+## Getting Started
+
+If you're a developer or contributor, a good place to start is the [terraharbor/project-management](https://github.com/terraharbor/project-management) repository, where you can find general documentation and guidelines for contributing to the project.
+
+If you're a user interested in testing our application, you can [start by deploying it locally using Docker Compose](https://github.com/terraharbor/infrastructure?tab=readme-ov-file#running-docker-compose-locally).
