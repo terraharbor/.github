@@ -7,9 +7,13 @@
 
 <div align="center">
 
-![Backend Version](https://img.shields.io/github/v/release/terraharbor/backend?sort=semver&style=for-the-badge&label=Backend%20Version&color=%2325c2a0&link=https%3A%2F%2Fgithub.com%2Fterraharbor%2Fbackend%2Freleases) ![Backend License](https://img.shields.io/github/license/terraharbor/backend?style=for-the-badge&logo=gplv3&label=Backend%20License) ![Backend Build](https://img.shields.io/github/actions/workflow/status/terraharbor/backend/docker-build.yaml?event=push&style=for-the-badge&logo=docker&label=Backend%20Build&link=https%3A%2F%2Fgithub.com%2Fterraharbor%2Fbackend%2Factions%2Fworkflows%2Fdocker-build.yaml%3Fquery%3Devent%253Apush)
+<a href="https://github.com/terraharbor/backend/releases"><img alt="Backend Release" src="https://img.shields.io/github/v/release/terraharbor/backend?sort=semver&style=for-the-badge&label=Backend%20Release"></a>
+<a href="https://github.com/terraharbor/backend?tab=GPL-3.0-1-ov-file#readme"><img alt="Backend License" src="https://img.shields.io/github/license/terraharbor/backend?style=for-the-badge&logo=gplv3&label=Backend%20License"></a>
+<a href="https://github.com/terraharbor/backend/actions/workflows/docker-build.yaml?query=event%3Apush"><img alt="Backend Deployment" src="https://img.shields.io/github/actions/workflow/status/terraharbor/backend/docker-build.yaml?event=push&style=for-the-badge&logo=docker&label=Backend%20Build"></a>
 
-![Frontend Version](https://img.shields.io/github/v/release/terraharbor/frontend?sort=semver&style=for-the-badge&label=Frontend%20Version&color=%2325c2a0&link=https%3A%2F%2Fgithub.com%2Fterraharbor%2Ffrontend%2Freleases) ![Frontend License](https://img.shields.io/github/license/terraharbor/frontend?style=for-the-badge&logo=gplv3&label=Frontend%20License) ![Frontend Build](https://img.shields.io/github/actions/workflow/status/terraharbor/frontend/docker-build.yaml?event=push&style=for-the-badge&logo=docker&label=Frontend%20Build&link=https%3A%2F%2Fgithub.com%2Fterraharbor%2Ffrontend%2Factions%2Fworkflows%2Fdocker-build.yaml%3Fquery%3Devent%253Apush)
+<a href="https://github.com/terraharbor/frontend/releases"><img alt="Frontend Release" src="https://img.shields.io/github/v/release/terraharbor/frontend?sort=semver&style=for-the-badge&label=Frontend%20Release"></a>
+<a href="https://github.com/terraharbor/frontend?tab=GPL-3.0-1-ov-file#readme"><img alt="Frontend License" src="https://img.shields.io/github/license/terraharbor/frontend?style=for-the-badge&logo=gplv3&label=Frontend%20License"></a>
+<a href="https://github.com/terraharbor/frontend/actions/workflows/docker-build.yaml?query=event%3Apush"><img alt="Frontend Build" src="https://img.shields.io/github/actions/workflow/status/terraharbor/frontend/docker-build.yaml?event=push&style=for-the-badge&logo=docker&label=Frontend%20Build"></a>
 
 </div>
 
