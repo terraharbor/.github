@@ -43,7 +43,8 @@ This organization contains several repositories in order to more efficiently man
 - [terraharbor/backend](https://github.com/terraharbor/backend) - repository containing the code for the backend of the application, together with the database initialization scripts;
 - [terraharbor/frontend](https://github.com/terraharbor/frontend) - repository containing the code for the frontend of the application;
 - [terraharbor/infrastructure](https://github.com/terraharbor/infrastructure) - repository for the infrastructure code, to deploy the TerraHarbor application and its components;
-- [terraharbor/website](https://github.com/terraharbor/website) - repository for the TerraHarbor project website.
+- [terraharbor/website](https://github.com/terraharbor/website) - repository for the TerraHarbor project website;
+- [terraharbor/demo](https://github.com/terraharbor/demo) - repository containing intialization scripts and Terraform code to populate a TerraHarbor instance with data for demonstration purposes.
 
 ## Getting Started
 
